@@ -1,1 +1,2 @@
+[mini-wraith]
 localhost ansible_connection=local

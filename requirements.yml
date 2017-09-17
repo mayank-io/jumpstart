@@ -1,4 +1,5 @@
 ---
+- name: osxc.repository
 - name: geerlingguy.dotfiles
 - name: geerlingguy.homebrew
 - name: geerlingguy.mas
