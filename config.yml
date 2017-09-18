@@ -11,7 +11,6 @@ dotfiles_files:
   - .gitconfig
 
 homebrew_installed_packages:
-  # - ansible # Installed via Pip.
   - autoconf
   - bash-completion
   - gettext
@@ -20,8 +19,8 @@ homebrew_installed_packages:
   - gpg
   - gradle
   - hub
-  - mysql@5.6
   - maven
+  - mysql@5.6
   - node
   - nvm
   - ssh-copy-id
@@ -33,6 +32,7 @@ homebrew_installed_packages:
 homebrew_taps:
   - homebrew/core
   - caskroom/cask
+  - caskroom/versions
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
