@@ -45,6 +45,7 @@ homebrew_cask_apps:
   - intellij-idea
   - java
   - licecap
+  - magnet
   - mindnode-pro
   - navicat-for-mysql
   - paste
@@ -59,7 +60,7 @@ homebrew_cask_apps:
   - transmit
   - whatsapp
   - vagrant
-  - virtualbox
+  #- virtualbox
 
 # See `geerlingguy.mas` role documentation for usage instructions.
 mas_installed_apps: []

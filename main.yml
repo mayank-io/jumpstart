@@ -12,8 +12,6 @@
     - role: geerlingguy.dotfiles
       tags: ['dotfiles']
       
-    - role: adobe.jem
-
   tasks:
     # - include: tasks/sudoers.yml
     #   when: configure_sudoers
